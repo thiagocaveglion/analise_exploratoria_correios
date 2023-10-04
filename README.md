@@ -10,5 +10,5 @@ Os arquivos estão organizados em um jupyter notebook e um arquivo .parquet com 
 Realizamos análises estatísticas para fazer uma análise exploratória baseada num dataset mascarado de tráfego dos correios no ano de 2023
 ## Bibliotecas
 As bibliotecas utilizadas foram indicadas no arquivo ipynb
-
+##
 ![image](https://github.com/thiagocaveglion/analise_exploratoria_correios/assets/107949964/b19e40f1-b6ea-4bd7-bc0b-b505ee52b6cd)
